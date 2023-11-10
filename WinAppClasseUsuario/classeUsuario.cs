@@ -7,7 +7,7 @@ namespace WinAppClasseUsuario
 {    public class classeUsuario
     {
         //declaração dos atributos
-        public string nome { get; set; }aaaaaaa
+        public string nome { get; set; }
         public string matricula { get; set; }  
         public DateTime dataNasc {  get; set; }    
         public string endereco { get; set; }   
